@@ -1,0 +1,6 @@
+- Creer dossier
+- Modifier pom
+- git bash :
+	git init 
+	
+- POUR mettre sur github
